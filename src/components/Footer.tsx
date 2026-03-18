@@ -160,8 +160,8 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2.5">
                 <Icon name="EnvelopeIcon" size={16} className="text-accent flex-shrink-0" />
-                <a href="mailto:founder@dharmam.org" className="text-sm text-white/65 hover:text-white transition-colors">
-                  founder@dharmam.org
+                <a href="mailto:info@dharmam.org" className="text-sm text-white/65 hover:text-white transition-colors">
+                  info@dharmam.org
                 </a>
               </li>
               <li className="flex items-center gap-2.5">
