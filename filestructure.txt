@@ -1,0 +1,112 @@
+|-- .env
+|-- .eslintrc.json
+|-- .gitignore
+|-- .prettierignore
+|-- .prettierrc
+|-- image-hosts.config.js
+|-- next-env.d.ts
+|-- next.config.mjs
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- public
+    |-- assets
+        |-- images
+            |-- app_logo.png
+            |-- dharmam_logo-1773644296566.png
+            |-- image-1773668512051.png
+            |-- kathiravan-1773643712860.png
+            |-- no_image.png
+    |-- favicon.ico
+|-- README.md
+|-- src
+    |-- app
+        |-- about
+            |-- components
+                |-- AboutContent.tsx
+                |-- FounderSection.tsx
+                |-- MissionVision.tsx
+                |-- Timeline.tsx
+            |-- page.tsx
+        |-- admin
+            |-- dashboard
+                |-- gallery
+                    |-- page.tsx
+                |-- layout.tsx
+                |-- messages
+                    |-- page.tsx
+                |-- page.tsx
+                |-- volunteers
+                    |-- page.tsx
+            |-- login
+                |-- page.tsx
+        |-- api
+            |-- admin
+                |-- login
+                    |-- route.ts
+                |-- logout
+                    |-- route.ts
+        |-- auth
+            |-- callback
+                |-- route.ts
+        |-- contact
+            |-- components
+                |-- ContactForm.tsx
+                |-- ContactInfo.tsx
+            |-- page.tsx
+        |-- donate
+            |-- components
+                |-- DonationPanel.tsx
+                |-- UPICard.tsx
+            |-- page.tsx
+        |-- gallery
+            |-- page.tsx
+        |-- homepage
+            |-- components
+                |-- AboutPreview.tsx
+                |-- DonateCTA.tsx
+                |-- GalleryPreview.tsx
+                |-- HeroSection.tsx
+                |-- ImpactSection.tsx
+                |-- ProgramsPreview.tsx
+            |-- page.tsx
+        |-- impact
+            |-- page.tsx
+        |-- layout.tsx
+        |-- not-found.tsx
+        |-- programs
+            |-- components
+                |-- ProgramsList.tsx
+            |-- page.tsx
+        |-- robots.ts
+        |-- sitemap.ts
+        |-- volunteer-application
+            |-- components
+                |-- VolunteerForm.tsx
+            |-- page.tsx
+    |-- components
+        |-- Footer.tsx
+        |-- Header.tsx
+        |-- ui
+            |-- AppIcon.tsx
+            |-- AppImage.tsx
+            |-- AppLogo.tsx
+        |-- WhatsAppFloat.tsx
+    |-- contexts
+        |-- AuthContext.tsx
+    |-- lib
+        |-- supabase
+            |-- client.ts
+            |-- server.ts
+    |-- middleware.ts
+    |-- styles
+        |-- index.css
+        |-- tailwind.css
+|-- supabase
+    |-- migrations
+        |-- 20260316073620_admin_dashboard.sql
+        |-- 20260316120000_fix_admin_user.sql
+        |-- 20260316131823_fix_anon_read_policies.sql
+        |-- 20260316140000_fix_storage_anon_policies.sql
+|-- tailwind.config.js
+|-- tsconfig.json
