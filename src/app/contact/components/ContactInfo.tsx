@@ -111,7 +111,7 @@ export default function ContactInfo() {
       {/* Quick Actions */}
       <div className="reveal grid grid-cols-1 gap-3">
         <a
-          href="https://wa.me/919176917626?text=Hello%20Dharmam%20Charitable%20Trust"
+          href="https://wa.me/919944256757?text=Hello%20Dharmam%20Charitable%20Trust"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 p-4 rounded-2xl bg-green-50 border border-green-100 hover:border-green-400 transition-all group"

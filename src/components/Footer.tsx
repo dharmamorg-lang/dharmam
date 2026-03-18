@@ -35,7 +35,7 @@ export default function Footer() {
                 </a>
               ))}
               <a
-                href="https://wa.me/919176917626"
+                href="https://wa.me/919944256757"
                 aria-label="WhatsApp"
                 className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center text-white/60 hover:text-white hover:border-white/60 transition-all"
               >
