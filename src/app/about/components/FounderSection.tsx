@@ -64,12 +64,12 @@ export default function FounderSection() {
                   With a background in law (LLB) and arts (MA), S. Kathiravan founded DHARMAM Charitable Trust in 2019 driven by a deep commitment to social justice and education equity. His legal expertise ensures the trust operates with full transparency and compliance, while his community roots in Chennai keep the organization grounded in genuine need.
                 </p>
                 <p className="text-foreground-muted leading-relaxed mb-8 text-sm">
-                  "Dharmam means righteous duty. Every one of us has a duty toward those who are less fortunate. Education is not a privilege — it is a right. Our mission is to make that right a reality for every child in Chennai."
+                  " Dharmam is not just a value — it is a way of life. It drives us to create impact where it matters most. Education is a right, Our mission is to ensure education reaches even the most unreachable corners."
                 </p>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   <a
-                    href="tel:+919176917626"
+                    href="tel:044 31551490"
                     className="flex items-center gap-3 p-3 rounded-xl bg-primary-light border border-border hover:border-primary transition-colors group">
                     
                     <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary transition-colors">
@@ -77,7 +77,7 @@ export default function FounderSection() {
                     </div>
                     <div>
                       <div className="text-xs text-foreground-muted">Phone</div>
-                      <div className="text-sm font-semibold text-foreground">+91 9176 9176 26</div>
+                      <div className="text-sm font-semibold text-foreground">044 31551490</div>
                     </div>
                   </a>
                   <a

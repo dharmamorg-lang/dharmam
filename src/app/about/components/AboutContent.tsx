@@ -57,21 +57,21 @@ export default function AboutContent() {
             </div>
           </div>
 
-          <div className="md:col-span-6 reveal delay-200">
+                    <div className="md:col-span-6 reveal delay-200">
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <div className="rounded-3xl overflow-hidden aspect-[3/4] relative">
                   <AppImage
-                    src="https://img.rocket.new/generatedImages/rocket_gen_img_17100bc40-1773643317654.png"
-                    alt="Dharmam Trust volunteer teaching children in a classroom setting"
+                    src="https://img.rocket.new/generatedImages/rocket_gen_img_1bbb7e82f-1773643246262.png"
+                    alt="Dharmam Trust volunteer teaching Indian children in a Chennai classroom setting"
                     fill
                     className="object-cover img-hover-color" />
                   
                 </div>
                 <div className="rounded-2xl overflow-hidden aspect-square relative">
                   <AppImage
-                    src="https://img.rocket.new/generatedImages/rocket_gen_img_1a19af40c-1773643314454.png"
-                    alt="Children smiling and holding books at a Dharmam educational event"
+                    src="https://img.rocket.new/generatedImages/rocket_gen_img_1b995ecad-1773643244912.png"
+                    alt="Indian children smiling and holding books at a Dharmam educational event in Tamil Nadu"
                     fill
                     className="object-cover img-hover-color" />
                   
@@ -80,16 +80,16 @@ export default function AboutContent() {
               <div className="space-y-4 mt-8">
                 <div className="rounded-2xl overflow-hidden aspect-square relative">
                   <AppImage
-                    src="https://img.rocket.new/generatedImages/rocket_gen_img_1392b56f3-1773118154041.png"
-                    alt="Health camp organized by Dharmam Trust providing free medical checkups"
+                    src="https://img.rocket.new/generatedImages/rocket_gen_img_108ca6363-1773645135796.png"
+                    alt="Health camp organized by Dharmam Trust providing free medical checkups for Indian families"
                     fill
                     className="object-cover img-hover-color" />
                   
                 </div>
                 <div className="rounded-3xl overflow-hidden aspect-[3/4] relative">
                   <AppImage
-                    src="https://img.rocket.new/generatedImages/rocket_gen_img_1ee3f9f35-1773151583197.png"
-                    alt="Community development workshop conducted by Dharmam Charitable Trust volunteers"
+                    src="https://img.rocket.new/generatedImages/rocket_gen_img_19b4a0499-1773830671166.png"
+                    alt="Community development workshop conducted by Dharmam Charitable Trust volunteers in Chennai"
                     fill
                     className="object-cover img-hover-color" />
                   

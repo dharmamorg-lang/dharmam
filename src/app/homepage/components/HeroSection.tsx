@@ -6,16 +6,16 @@ import Icon from '@/components/ui/AppIcon';
 
 const slides = [
 {
-  src: "https://img.rocket.new/generatedImages/rocket_gen_img_1d96f2a8c-1772755746983.png",
-  alt: 'Children studying in a bright classroom with notebooks and books'
+  src: "https://img.rocket.new/generatedImages/rocket_gen_img_12ec4476e-1767732823206.png",
+  alt: 'Indian children studying together in a bright classroom with notebooks and books'
 },
 {
-  src: "https://img.rocket.new/generatedImages/rocket_gen_img_12bc316de-1765646270865.png",
-  alt: 'Volunteers teaching underprivileged children in an outdoor setting'
+  src: "https://img.rocket.new/generatedImages/rocket_gen_img_1ad4e2829-1773830671894.png",
+  alt: 'Indian teacher teaching underprivileged children in a school setting in Tamil Nadu'
 },
 {
-  src: "https://img.rocket.new/generatedImages/rocket_gen_img_166aaeb81-1766950136073.png",
-  alt: 'Community health camp with medical staff helping children and families'
+  src: "https://img.rocket.new/generatedImages/rocket_gen_img_13a2b1fb2-1772702766653.png",
+  alt: 'Indian community health camp with medical staff helping children and families'
 }];
 
 
@@ -91,12 +91,12 @@ export default function HeroSection() {
                 
                 <span className="text-reveal-wrapper block">
                   <span className="text-reveal-content text-5xl md:text-7xl" style={{ transitionDelay: '0.2s' }}>
-                    Empowering Lives
+                    Empower Through
                   </span>
                 </span>
                 <span className="text-reveal-wrapper block">
                   <span className="text-reveal-content text-5xl md:text-7xl" style={{ transitionDelay: '0.35s' }}>
-                    Through{' '}
+                    {' '}
                     <span className="text-accent">Education</span>
                   </span>
                 </span>

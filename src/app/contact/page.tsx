@@ -67,7 +67,7 @@ export default function ContactPage() {
               <p className="text-foreground-muted text-sm">1, Lakshmi Nagar, Perumal Kovil Main Road</p>
               <p className="text-foreground-muted text-sm">Puthagaram, Chennai – 600099</p>
               <a
-                href="https://maps.google.com/?q=Puthagaram+Chennai+600099"
+                href="https://maps.app.goo.gl/yu2CUiHYLdLNKQcQ8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 mt-4 px-5 py-2.5 bg-primary text-white font-semibold rounded-xl hover:bg-primary-hover transition-all text-sm"

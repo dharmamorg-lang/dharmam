@@ -60,7 +60,7 @@ export default function UPICard() {
           <Icon name="InformationCircleIcon" size={18} className="text-accent flex-shrink-0 mt-0.5" />
           <p className="text-sm text-foreground-muted leading-relaxed">
             After completing the payment, please share the transaction screenshot via{' '}
-            <a href="https://wa.me/919176917626" className="text-primary font-semibold hover:underline">WhatsApp</a>{' '}
+            <a href="https://wa.me/919944256757" className="text-primary font-semibold hover:underline">WhatsApp</a>{' '}
             or{' '}
             <a href="mailto:info@dharmam.org" className="text-primary font-semibold hover:underline">email</a>{' '}
             for confirmation.
@@ -71,8 +71,8 @@ export default function UPICard() {
       <div className="mt-4 text-center">
         <p className="text-xs text-foreground-muted">
           Questions?{' '}
-          <a href="tel:+919176917626" className="text-primary font-semibold hover:underline">
-            +91 9176 9176 26
+          <a href="tel:044 31551490" className="text-primary font-semibold hover:underline">
+            044 31551490
           </a>
         </p>
       </div>

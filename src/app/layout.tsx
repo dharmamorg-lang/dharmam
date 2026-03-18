@@ -10,7 +10,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
-  title: 'Dharmam Charitable Trust — Empowering Lives Through Education',
+  title: 'Dharmam Charitable Trust — Empower Through Education',
   description: 'Dharmam Charitable Trust supports underprivileged children in Chennai through education, mentoring, healthcare, and community development programs since 2019.',
   icons: {
     icon: [

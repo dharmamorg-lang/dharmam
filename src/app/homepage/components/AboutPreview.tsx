@@ -33,8 +33,8 @@ export default function AboutPreview() {
             <div className="relative">
               <div className="rounded-3xl overflow-hidden aspect-[4/5] relative">
                 <AppImage
-                  src="https://img.rocket.new/generatedImages/rocket_gen_img_1e22698f9-1773118155938.png"
-                  alt="Children learning together in a classroom supported by Dharmam Charitable Trust"
+                  src="https://img.rocket.new/generatedImages/rocket_gen_img_1916dcba0-1773643246498.png"
+                  alt="Indian children learning together in a classroom supported by Dharmam Charitable Trust in Chennai"
                   fill
                   className="object-cover img-hover-color" />
                 

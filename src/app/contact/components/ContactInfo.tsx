@@ -49,8 +49,8 @@ export default function ContactInfo() {
             {
               icon: 'PhoneIcon',
               label: 'Phone',
-              content: '+91 9176 9176 26',
-              href: 'tel:+919176917626',
+              content: '044 31551490',
+              href: 'tel:044 31551490',
               isLink: true,
             },
             {

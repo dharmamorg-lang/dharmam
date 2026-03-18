@@ -107,7 +107,7 @@ export default function ContactForm() {
               value={form.phone}
               onChange={handleChange}
               className="form-input"
-              placeholder="+91 98765 43210"
+              placeholder="044 3155149098765 43210"
             />
           </div>
           <div>
