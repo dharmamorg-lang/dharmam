@@ -56,8 +56,8 @@ export default function ContactInfo() {
             {
               icon: 'EnvelopeIcon',
               label: 'Email',
-              content: 'founder@dharmam.org',
-              href: 'mailto:founder@dharmam.org',
+              content: 'info@dharmam.org',
+              href: 'mailto:info@dharmam.org',
               isLink: true,
             },
             {

@@ -156,8 +156,8 @@ export default function ContactForm() {
 
         <p className="text-center text-xs text-foreground-muted">
           Or reach us directly at{' '}
-          <a href="mailto:founder@dharmam.org" className="text-primary font-semibold hover:underline">
-            founder@dharmam.org
+          <a href="mailto:info@dharmam.org" className="text-primary font-semibold hover:underline">
+            info@dharmam.org
           </a>
         </p>
       </form>

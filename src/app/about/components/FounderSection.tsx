@@ -81,7 +81,7 @@ export default function FounderSection() {
                     </div>
                   </a>
                   <a
-                    href="mailto:founder@dharmam.org"
+                    href="mailto:info@dharmam.org"
                     className="flex items-center gap-3 p-3 rounded-xl bg-primary-light border border-border hover:border-primary transition-colors group">
                     
                     <div className="w-9 h-9 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary transition-colors">

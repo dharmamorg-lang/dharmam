@@ -62,7 +62,7 @@ export default function UPICard() {
             After completing the payment, please share the transaction screenshot via{' '}
             <a href="https://wa.me/919176917626" className="text-primary font-semibold hover:underline">WhatsApp</a>{' '}
             or{' '}
-            <a href="mailto:founder@dharmam.org" className="text-primary font-semibold hover:underline">email</a>{' '}
+            <a href="mailto:info@dharmam.org" className="text-primary font-semibold hover:underline">email</a>{' '}
             for confirmation.
           </p>
         </div>
